@@ -1,0 +1,11 @@
+<svg viewBox="0 0 64 64">
+    <path stroke="none" stroke-width="2" fill="#33aaff" 
+    d="M5,5 v50 l15,-15 l20,20 l20,-20 l-20,-20 l15, -15 z"/>
+    <path stroke="none" stroke-width="1" fill="#0066aa" 
+    d="M5,5 v50 l15,-15 l20,20 l10,-10 z"/>
+    <path stroke="black" stroke-width="2" fill="none" 
+    d="M5,5 v50 l15,-15 l20,20 l20,-20 l-20,-20 l15, -15 z"/>
+    <path stroke="white" stroke-width="5" fill="none"  stroke-dasharray="0"
+    d="M5,5 v50 l15,-15 l20,20 l20,-20 l-20,-20 l15, -15 z"/>
+
+</svg>
